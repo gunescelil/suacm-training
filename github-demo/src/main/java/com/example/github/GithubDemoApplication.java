@@ -10,6 +10,8 @@ public class GithubDemoApplication {
 		SpringApplication.run(GithubDemoApplication.class, args);
 		int x = 5;
 		System.out.println("x");
+		System.out.println("y");
+		System.out.println("y");
 	}
 
 }
